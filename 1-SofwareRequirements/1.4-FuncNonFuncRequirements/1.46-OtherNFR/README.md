@@ -9,3 +9,4 @@
 | FR4.3 | NFR4.3 | Time Perfomance | 10 секунд |
 | | NFR4.4 | Hardware | Комп'ютер, стандартна комп`ютерна клавіатура, 2/3-кнопочний маніпулятор типу "миша" |
 | | NFR4.5 | Software Interface | Windows 7/8/10/11, Mac OS, Linux, будь-який браузер |
+| | NFR4.6 | Data Transfer Interface | Ethernet, WiFi зі швидкістю від 1 Мбіт/с |
