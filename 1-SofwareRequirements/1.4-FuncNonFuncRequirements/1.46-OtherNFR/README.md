@@ -7,3 +7,4 @@
 | FR4.1 | NFR4.1 | Time Perfomance | 10 секунд |
 | FR4.2 | NFR4.2 | Time Perfomance | 40 секунд |
 | FR4.3 | NFR4.3 | Time Perfomance | 10 секунд |
+| | NFR4.4 | Hardware | Комп'ютер, стандартна комп`ютерна клавіатура, 2/3-кнопочний маніпулятор типу "миша" |
