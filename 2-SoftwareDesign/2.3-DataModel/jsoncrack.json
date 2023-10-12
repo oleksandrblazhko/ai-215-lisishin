@@ -1,0 +1,40 @@
+{
+  "User Information": {
+    "1": {
+      "Age": "18",
+      "Email": "lisishindanil@gmail.com",
+      "Name": "Danil"
+    }
+  },
+  "User": {
+    "1": {
+      "Login": "lisishindanil",
+      "Password": "12345678"
+    }
+  },
+  "Employee of the health center": {
+    "1": {
+      "Specialization": "Доктор",
+      "Age": "30",
+      "Experience": "Досвід більше 5 років"
+    }
+  },
+  "Sending questions about health": {
+    "1": {
+      "Text": "Досвід створення питань користувачем",
+      "Date": "Дата"
+    }
+  },
+  "Provides a response to the consumer": {
+    "1": {
+      "Response": "Текст відповіді",
+      "Date": "12.10.2023"
+    }
+  },
+  "View health data": {
+    "1": {
+      "Date": "25.09.2023",
+      "Health data": "Текст"
+    }
+  }
+}
