@@ -1,2 +1,2 @@
 ### Схема моделі даних
-![](./jsonexample.jpg)
+![](./JSONDataExample.jpg)
