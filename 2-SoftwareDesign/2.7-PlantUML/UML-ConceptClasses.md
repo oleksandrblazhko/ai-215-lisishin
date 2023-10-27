@@ -1,1 +1,1 @@
-![](http://www.plantuml.com/proxy?cache==no&src=http://raw.../UML-ConceptClasses.puml)
+![](http://www.plantuml.com/proxy?cache==no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-215-lisishin/Labolatory_Work_7/2-SoftwareDesign/2.7-PlantUML/UML-ConceptClasses.puml)
