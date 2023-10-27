@@ -1,0 +1,23 @@
+@startjson
+
+title JSON Data Lisishin
+{
+  "User": {
+    "id": "1",
+    "login": "lisishindanil",
+    "password": "00000000",
+    "age": "18",
+    "email": "lisishindanil@gmail.com",
+    "Name": "Danil"
+  },
+  "Сhoreographer": {
+      "id":"1",
+      "position": "Doctor",
+      "age": "45",
+      "Name": "Maxim",
+      "user id": "2"
+  }
+}
+
+
+@endjson
