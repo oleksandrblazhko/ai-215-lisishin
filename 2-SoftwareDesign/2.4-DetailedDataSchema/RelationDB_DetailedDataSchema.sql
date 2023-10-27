@@ -8,8 +8,8 @@ CREATE TABLE UserInformation (
 
 CREATE TABLE User (
     UserID INT PRIMARY KEY,
-    Login VARCHAR(20) CHECK (LENGTH(Login) < 20 AND Login ~ '^[a-zA-Z0-9]*$'),
-    Password VARCHAR(20) CHECK (LENGTH(Password) < 20 AND Password ~ '^[a-zA-Z0-9]*$')
+    Login VARCHAR(20) Login ~ '^[a-zA-Z0-9]*$'),
+    Password VARCHAR(20) Password ~ '^[a-zA-Z0-9]*$')
 );
 
 
