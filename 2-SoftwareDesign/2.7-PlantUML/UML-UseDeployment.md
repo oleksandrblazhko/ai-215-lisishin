@@ -1,1 +1,1 @@
-![](http://www.plantuml.com/proxy?cache==no&src=http://raw.../UML-UseDeployment)
+![](http://www.plantuml.com/proxy?cache==no&src=http://raw.../UML-UseDeployment.puml)
