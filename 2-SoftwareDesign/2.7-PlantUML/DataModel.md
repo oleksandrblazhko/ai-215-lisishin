@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/oleksandrblazhko/ai-215-lisishin/Labolatory_Work_7/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)
+![](http://www.plantuml.com/proxy?cache==no&src=http://raw.../DataModel)
