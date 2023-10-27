@@ -1,1 +1,1 @@
-![UML-ConceptClasses](//www.plantuml.com/plantuml/png/XO_1IWGn38RlUOgmznwyoYAxB8B2UX3P1wZJE5j8sx79w45zTziuAogYlIGX__VtpqRKLvqJ0nnZ81nY7PX0epBXuMQFkv87cXHtx4L80Ap1Wr355y3sk8mnMpUrpNEf0TwQRDzbsn2Ynf8zT-0wFvG5yYDPfUGZMvTz8WFD_uvoY7cydKawBzlxCkiLUTRZul1uMjaKl7wXJRYZh5GlqxG0Kn7BylaRdf9W9-sYzQjpFsY0NuueJTQ73snrjaBdBh3LltAVexGjm7V_3g-T-n-kD51y8e1Days9tm40)
+![UML-ConceptClasses](https://raw.githubusercontent.com/oleksandrblazhko/ai-215-lisishin/Labolatory_Work_7/2-SoftwareDesign/2.7-PlantUML/UML-ConceptClasses.puml)
