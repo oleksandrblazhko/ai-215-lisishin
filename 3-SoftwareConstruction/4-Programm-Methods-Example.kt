@@ -27,11 +27,11 @@ class MainActivity : AppCompatActivity() {
         // Встановлення слухача натискання для кнопки
         binding.btn1.setOnClickListener {
             // Виклик функції для збереження питання про здоров'я
-            saveHealthQuestion()
+            sendQuestion()
         }
     }
 
-    private fun saveHealthQuestion() {
+    private fun sendQuestion() {
         // Отримання тексту, введеного в EditText
         val questionText = binding.qstEd1.text.toString()
 
